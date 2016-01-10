@@ -3,6 +3,8 @@
 
 This combines [babel-preset-loose](https://github.com/bkonkle/babel-preset-es2015-loose) with [babel-preset-es2015-rollup](https://github.com/rollup/babel-preset-es2015-rollup).
 
+The version number does not correspond the Babel version number.
+
 ## Install
 ```sh
 $ npm install babel-preset-es2015-loose-rollup --save-dev
